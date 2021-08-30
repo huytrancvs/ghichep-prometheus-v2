@@ -398,3 +398,5 @@ sudo systemctl status prometheus
 ```
 
 Phần tiếp [Alertmanager](Alertmanager.md)
+
+.
